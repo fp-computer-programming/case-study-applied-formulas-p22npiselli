@@ -11,4 +11,4 @@ cord_2 = (y_two - y_one) ** 2
 d = cord_1 + cord_2
 
 distance = d ** (1/2)
-print(distance)
+print("The distance between the two points is " + str(distance))
